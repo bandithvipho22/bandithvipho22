@@ -20,9 +20,9 @@
 ---
 
 ### 📈 GitHub Stats  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/bandithvipho22/bandithvipho22)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bandithvipho22&show_icons=true&theme=radical)](https://github.com/bandithvipho22/bandithvipho22)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/bandithvipho22/bandithvipho22)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bandithvipho22&layout=compact)](https://github.com/bandithvipho22/bandithvipho22)  
 
 ---
 
