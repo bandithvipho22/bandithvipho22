@@ -10,7 +10,9 @@
 👨‍💻 **Profile Views**: ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bandithvipho22.bandithvipho22)  
 
 📍 **Based in** Phnom Penh, Cambodia 
+
 💻 **Research Interest Includes** AI/ML/DL, Computer Vision, and Robotic
+
 ⚡ **Passionate About**: Building intelligent systems, robotics, and edge AI.  
 
 ---
