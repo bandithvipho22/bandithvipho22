@@ -46,12 +46,4 @@
 
 ## 🐍 My Contributions
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bandithvipho22/bandithvipho22/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bandithvipho22/bandithvipho22/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/bandithvipho22/bandithvipho22/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
+![Snake animation](https://github.com/bandithvipho22/bandithvipho22/blob/output/github-contribution-grid-snake.svg)
