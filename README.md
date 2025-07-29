@@ -21,7 +21,7 @@
 - **AI/Computer Vision**: PyTorch, TensorFlow, OpenCV  
 - **Robotics**: ROS/ROS2, Gazebo, Rviz, SLAM, Path Planning (A*), Path Tracking (Pure Pusuit, P-PID, Standley Control)  
 - **Languages**: Python, C/C++,
-- **Edge AI**: NVIDIA Jetson, Raspberry Pi, Arduino, ESP32, Arduino 
+- **Edge AI**: NVIDIA Jetson, Raspberry Pi, ...
 - **Tools**: Git, GitHub Actions, ONNX, TensorRT, TensorFlow, TensorFlow lite
 
 ---
