@@ -43,7 +43,3 @@
 - 🤖 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
 - 📧 Email: bandithvipho22@gmail.com
 
-
-## 🐍 My Contributions
-
-![Snake animation](https://github.com/bandithvipho22/bandithvipho22/blob/output/github-contribution-grid-snake.svg)
