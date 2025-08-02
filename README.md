@@ -40,6 +40,6 @@
 ### 📫 **Let’s Collaborate!**  
 - 🐦 X (Twitter): [@vipho](https://x.com/BandithVipho22)  
 - 💼 LinkedIn: [L.B.VIPHO](https://www.linkedin.com/in/l-b-vipho-b326911b8/)
-- 🤖 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
+- 🤖 **Portfolio**: [Portfolio](https://bandithvipho22.github.io/)  
 - 📧 Email: bandithvipho22@gmail.com
 
