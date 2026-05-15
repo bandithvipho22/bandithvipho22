@@ -1,8 +1,5 @@
 # LANG BANDITHVIPHO 
 
-**YOUTUBE** | **MEDIUM** | **LINKEDIN**  
-**TWITTER** | **INSTAGRAM** | **FACEBOOK**  
-
 ---
 
 ## About Me  
